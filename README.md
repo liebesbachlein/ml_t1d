@@ -2,7 +2,7 @@ ipynb files with the ML work done for the senior project
 
 Aigerim Tuishieva
 
-Links to the same files in Google Colab (open from nu.edu.kz account)
+Links to the same files in Google Colab Link to the datasets (open using your nu.edu.kz account)
 
 ML NH data processing, model training and evaluation 
 https://colab.research.google.com/drive/1KkmMLZtA0-myoxGjfcZVkHYtoUwIjU4O?usp=sharing
